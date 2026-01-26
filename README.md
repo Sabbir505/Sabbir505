@@ -19,5 +19,7 @@ AI integration into applications
 🛠 Tech Stack
 
 AI/Data: Python, ML fundamentals, Algorithm design
+
 App Dev: React Native, JavaScript, TypeScript
+
 Engineering: APIs, System architecture, Git
