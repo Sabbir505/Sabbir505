@@ -17,7 +17,9 @@ Scalable app architecture
 
 🛠 Tech Stack
 Mobile: React Native, JavaScript, TypeScript
+
 AI/Data: Python, Machine Learning fundamentals
+
 Engineering: APIs, Git, Product-focused development
 
 📌 Selected Projects
