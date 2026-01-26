@@ -23,3 +23,6 @@ AI/Data: Python, ML fundamentals, Algorithm design
 App Dev: React Native, JavaScript, TypeScript
 
 Engineering: APIs, System architecture, Git
+
+Projects:
+Multimodel algorithom for emotional detection : https://github.com/Sabbir505/mulimodel-algorithm-
