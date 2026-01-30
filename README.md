@@ -26,3 +26,4 @@ Engineering: APIs, System architecture, Git
 
 Projects:
 Multimodel algorithom for emotional detection : https://github.com/Sabbir505/mulimodel-algorithm-
+HabitSyncer : https://github.com/Sabbir505/HabitSyncer
