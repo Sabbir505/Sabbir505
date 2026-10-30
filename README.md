@@ -1,28 +1,25 @@
 # Sabbir Hossain
 
-**AI/ML Engineer 🤖 | React Native Developer 📱 | Founder & CTO at Velox Studio 🚀**
+**AI/ML Engineer · Mobile & Full-Stack Developer · Founder @ Velox Studio**
 
 Nanjing, China · sabbirhossainsm505@gmail.com
 
 ## About
 
-I build intelligent, data-driven applications across AI/ML, mobile, and web. My work spans machine learning experimentation, algorithm design, and shipping real products — from AI-powered systems to mobile and desktop apps.
+I build AI products end to end — from model experiments to shipped applications. I'm a fourth-year Computer Science undergraduate at Nanjing University of Posts and Telecommunications (graduating 2027), and Founder & CTO at Velox Studio, where I lead architecture and engineering.
 
-As Founder & CTO of Velox Studio, I lead product development with an emphasis on architecture, engineering, and AI-driven features.
+## What I Work On
 
-## Focus Areas
-
-- Machine Learning & AI systems
-- Algorithm and model experimentation
-- Intelligent feature design
-- Mobile & desktop app development
-- AI integration into applications
+- Applied AI and LLM systems — agentic workflows, RAG, evaluation
+- Machine learning experiments — multimodal models, signal processing
+- Mobile and desktop apps — React Native, Electron, Next.js
+- Product engineering — local-first architecture, APIs, system design
 
 ## Tech Stack
 
-- **AI/Data:** Python, ML fundamentals, algorithm design
-- **App Dev:** React Native, JavaScript, TypeScript, Electron
-- **Engineering:** APIs, system architecture, Git
+- **AI / Data:** Python, machine learning, LLM APIs, RAG, prompt engineering
+- **App:** React Native, TypeScript, JavaScript, Electron, Next.js
+- **Engineering:** Git, REST APIs, Docker, local-first architecture
 
 ## Public Projects
 
