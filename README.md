@@ -24,11 +24,12 @@ Selected Projects
 - EyeShield - Forced eye-break enforcement desktop app for Windows & Linux. -> https://github.com/Sabbir505/EyeShield
 - 4H-supertrend-trend-following-s - Automated crypto signal scanner for 4H Supertrend trend-ride entries across top Binance USDT pairs, with Telegram alerts and a live Next.js dashboard. -> https://github.com/Sabbir505/4H-supertrend-trend-following-s
 - relay-releases - Public releases of Relay (local-first agent workspace): installers and auto-update feed. -> https://github.com/Sabbir505/relay-releases
+- NoboGyan - AI-native learning engine with a six-dimensional learner model and RAG-based tutoring. -> https://github.com/Sabbir505/NOBOGYAN-
 - Multimodel-algorithm-for-emotion-detection - Hybrid tensor-attention fusion for multimodal emotion recognition from physiological signals (EDA and PPG). -> https://github.com/Sabbir505/Multimodel-algorithm-for-emotion-detection
 - TrendScale-pro-osc - Trend-following oscillator (RSI + SDO + EOT). -> https://github.com/Sabbir505/TrendScale-pro-osc
 - exercisedb-api - ExerciseDB API (11000+ exercises). -> https://github.com/Sabbir505/exercisedb-api
 
-Also building (private): Relay (AI coding workspace), NoboGyan (AI learning engine), KineticPulse, HabitSyncer, and more.
+Also building (private): Relay (AI coding workspace), KineticPulse, HabitSyncer, and more.
 
 Connect
 - GitHub: https://github.com/Sabbir505
