@@ -26,6 +26,7 @@ As Founder & CTO of Velox Studio, I lead product development with an emphasis on
 
 ## Public Projects
 
+- [Ultimate Workspace](https://ultimate-workspace.netlify.app/) — Current work: local-first AI coding workspace (Relay)
 - [Content-management](https://github.com/Sabbir505/Content-management) — Content discovery and creation tool for creators (Outlierly/TubeForge)
 - [EyeShield](https://github.com/Sabbir505/EyeShield) — Forced eye-break enforcement desktop app for Windows & Linux
 - [NoboGyan (NOBOGYAN-)](https://github.com/Sabbir505/NOBOGYAN-) — AI-native learning engine with a six-dimensional learner model and RAG-based tutoring
@@ -35,7 +36,6 @@ As Founder & CTO of Velox Studio, I lead product development with an emphasis on
 - [relay-releases](https://github.com/Sabbir505/relay-releases) — Public releases of Relay, a local-first AI coding workspace
 - [exercisedb-api](https://github.com/Sabbir505/exercisedb-api) — ExerciseDB API (11000+ exercises)
 - [PersonalModelBench](https://github.com/Sabbir505/PersonalModelBench) — Benchmarking harness for personal LLM models
-- [sabbir505.github.io](https://github.com/Sabbir505/sabbir505.github.io) — Conduit app site
 
 ## Also Building (Private)
 
