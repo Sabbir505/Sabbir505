@@ -1,36 +1,47 @@
-Sabbir Hossain
-AI/ML Engineer | React Native Developer | Founder & CTO at Velox Studio
+# Sabbir Hossain
 
-I build intelligent, data-driven applications with a focus on AI/ML, mobile development, and practical product engineering.
+**AI/ML Engineer 🤖 | React Native Developer 📱 | Founder & CTO at Velox Studio 🚀**
 
-My work spans machine learning experimentation, algorithm design, and real-world app development - from AI-powered systems to mobile and web products.
+Nanjing, China · sabbirhossainsm505@gmail.com
+
+## About
+
+I build intelligent, data-driven applications across AI/ML, mobile, and web. My work spans machine learning experimentation, algorithm design, and shipping real products — from AI-powered systems to mobile and desktop apps.
 
 As Founder & CTO of Velox Studio, I lead product development with an emphasis on architecture, engineering, and AI-driven features.
 
-Focus Areas
+## Focus Areas
+
 - Machine Learning & AI systems
 - Algorithm and model experimentation
 - Intelligent feature design
-- Mobile app development
+- Mobile & desktop app development
 - AI integration into applications
 
-Tech Stack
-- AI/Data: Python, ML fundamentals, algorithm design
-- App Dev: React Native, JavaScript, TypeScript
-- Engineering: APIs, system architecture, Git
+## Tech Stack
 
-Selected Projects
-- Content-management - Content discovery and creation tool for creators (Outlierly/TubeForge): surfaces outlier videos/articles across YouTube, Hacker News, DEV.to and Substack, with LLM-assisted script and post generation. -> https://github.com/Sabbir505/Content-management
-- EyeShield - Forced eye-break enforcement desktop app for Windows & Linux. -> https://github.com/Sabbir505/EyeShield
-- 4H-supertrend-trend-following-s - Automated crypto signal scanner for 4H Supertrend trend-ride entries across top Binance USDT pairs, with Telegram alerts and a live Next.js dashboard. -> https://github.com/Sabbir505/4H-supertrend-trend-following-s
-- relay-releases - Public releases of Relay (local-first agent workspace): installers and auto-update feed. -> https://github.com/Sabbir505/relay-releases
-- NoboGyan - AI-native learning engine with a six-dimensional learner model and RAG-based tutoring. -> https://github.com/Sabbir505/NOBOGYAN-
-- Multimodel-algorithm-for-emotion-detection - Hybrid tensor-attention fusion for multimodal emotion recognition from physiological signals (EDA and PPG). -> https://github.com/Sabbir505/Multimodel-algorithm-for-emotion-detection
-- TrendScale-pro-osc - Trend-following oscillator (RSI + SDO + EOT). -> https://github.com/Sabbir505/TrendScale-pro-osc
-- exercisedb-api - ExerciseDB API (11000+ exercises). -> https://github.com/Sabbir505/exercisedb-api
+- **AI/Data:** Python, ML fundamentals, algorithm design
+- **App Dev:** React Native, JavaScript, TypeScript, Electron
+- **Engineering:** APIs, system architecture, Git
 
-Also building (private): Relay (AI coding workspace), KineticPulse, HabitSyncer, and more.
+## Public Projects
 
-Connect
-- GitHub: https://github.com/Sabbir505
+- [Content-management](https://github.com/Sabbir505/Content-management) — Content discovery and creation tool for creators (Outlierly/TubeForge)
+- [EyeShield](https://github.com/Sabbir505/EyeShield) — Forced eye-break enforcement desktop app for Windows & Linux
+- [NoboGyan (NOBOGYAN-)](https://github.com/Sabbir505/NOBOGYAN-) — AI-native learning engine with a six-dimensional learner model and RAG-based tutoring
+- [4H-supertrend-trend-following-s](https://github.com/Sabbir505/4H-supertrend-trend-following-s) — Automated 4H Supertrend signal scanner (Binance USDT) with Telegram alerts and a Next.js dashboard
+- [TrendScale-pro-osc](https://github.com/Sabbir505/TrendScale-pro-osc) — Trend oscillator (RSI + SDO + EOT) for trend-following entries
+- [Multimodel-algorithm-for-emotion-detection](https://github.com/Sabbir505/Multimodel-algorithm-for-emotion-detection) — Hybrid tensor-attention fusion for multimodal emotion recognition from physiological signals (EDA/PPG)
+- [relay-releases](https://github.com/Sabbir505/relay-releases) — Public releases of Relay, a local-first AI coding workspace
+- [exercisedb-api](https://github.com/Sabbir505/exercisedb-api) — ExerciseDB API (11000+ exercises)
+- [PersonalModelBench](https://github.com/Sabbir505/PersonalModelBench) — Benchmarking harness for personal LLM models
+- [sabbir505.github.io](https://github.com/Sabbir505/sabbir505.github.io) — Conduit app site
+
+## Also Building (Private)
+
+Relay (AI coding workspace), KineticPulse, HabitSyncer, and more.
+
+## Connect
+
+- GitHub: [Sabbir505](https://github.com/Sabbir505)
 - Email: sabbirhossainsm505@gmail.com
